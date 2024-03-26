@@ -11,8 +11,7 @@ This repository implements customer segmentation using the K-Nearest Neighbors (
 **Project Structure:**
 
 * `data/`: This folder contains the customer data used for analysis (replace with your data file name and format).
-* `notebooks/`: This folder contains Jupyter notebooks or scripts for data preparation, KNN implementation, RFM analysis, and visualization (replace with your notebook file names and format).
-* `output/`: This folder will store the results of your analysis, such as cluster labels, RFM scores, and visualizations (this folder will be created automatically).
+* `CLV & RFM-2.ipynb`: This folder contains Jupyter notebooks or scripts for data preparation, KNN implementation, RFM analysis, and visualization (replace with your notebook file names and format).
 * `README.md`: This file (you are currently editing it).
 
 **Dependencies:**

@@ -1,6 +1,6 @@
-**Customer Segmentation with KNN and RFM Analysis**
+**Customer Segmentation with KMEANS and RFM Analysis**
 
-This repository implements customer segmentation using the K-Nearest Neighbors (KNN) algorithm and the RFM (Recency, Frequency, Monetary) analysis technique. 
+This repository implements customer segmentation using the K-Means algorithm and the RFM (Recency, Frequency, Monetary) analysis technique. 
 
 **Project Goals:**
 
@@ -11,7 +11,7 @@ This repository implements customer segmentation using the K-Nearest Neighbors (
 **Project Structure:**
 
 * `data/`: This folder contains the customer data used for analysis (replace with your data file name and format).
-* `CLV & RFM-2.ipynb`: This folder contains Jupyter notebooks or scripts for data preparation, KNN implementation, RFM analysis, and visualization (replace with your notebook file names and format).
+* `CLV & RFM-2.ipynb`: This folder contains Jupyter notebooks or scripts for data preparation, KMeans implementation, RFM analysis, and visualization (replace with your notebook file names and format).
 * `README.md`: This file (you are currently editing it).
 
 **Dependencies:**
